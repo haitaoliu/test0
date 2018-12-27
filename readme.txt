@@ -4,7 +4,7 @@ git has a mutable index called stage.
 git tracks changes of files.
 git edit on the test01.
 master edit on the trunk.
-
+git edit on the test01 second.
 
 
 
